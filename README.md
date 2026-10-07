@@ -539,25 +539,6 @@ The schema models the relationships between users, movies, genres, tags, ratings
 
 ---
 
-## Key Concepts Demonstrated
-
-This project demonstrates practical use of:
-
-- Relational database modeling
-- Many-to-many relationships
-- Referential integrity
-- SQL Server triggers
-- Stored procedures
-- Aggregate SQL queries
-- Business-rule enforcement
-- Ranking and recommendation queries
-- Temporal rating analysis
-- User behavior analysis
-- Java-to-database communication
-- Automated database testing
-
----
-
 ## Project Type
 
 Academic database systems project developed for the School of Electrical Engineering, University of Belgrade.
